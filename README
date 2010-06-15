@@ -1,0 +1,16 @@
+Velasco is a lightweight web browser.
+
+* Fast rendering with WebKit through Qt.
+* Tabs, windows and session management.
+* Searchbox based on OpenSearch.
+* Bookmarks are stored with XBEL.
+
+Requirements: 
+
+For installation instructions read INSTALL.
+
+Please report comments, suggestions and bugs to:
+	Sascha Peilicke
+
+Check for new versions at:
+	-

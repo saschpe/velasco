@@ -1,0 +1,9 @@
+.bzr/
+.bzrignore
+velasco
+stuff
+debug
+release
+Makefile
+Makefile.Debug
+Makefile.Release
